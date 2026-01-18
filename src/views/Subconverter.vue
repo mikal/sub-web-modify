@@ -386,6 +386,10 @@ export default {
               {
                 label: "CM_Online_Full_MultiMode_CF 识别多地区、CloudFlareCDN 负载均衡 Worker节点专用(与Github同步)",
                 value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode_CF.ini"
+              },
+              {
+                label: "Zhang My Rules",
+                value: "https://raw.githubusercontent.com/mikal/my-clash-rules/main/Custom_Clash.ini"
               }
             ]
           },
@@ -1310,3 +1314,4 @@ export default {
   }
 };
 </script>
+
