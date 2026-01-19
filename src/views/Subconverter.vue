@@ -345,6 +345,7 @@ export default {
           nameless13提供: "https://www.nameless13.com",
           subconverter作者提供: "https://sub.xeton.dev",
           "sub-web作者提供": "https://api.wcc.best",
+          "H0ng提供": "https://subconv.hong88.xyz:8143",
         },
         backendOptions: [
           { value: "https://subapi.cmliussss.net" },
@@ -354,6 +355,7 @@ export default {
           { value: "https://www.nameless13.com" },
           { value: "https://sub.xeton.dev" },
           { value: "https://api.wcc.best" },
+          { value: "https://subconv.hong88.xyz:8143" },
         ],
         remoteConfig: [
           {
@@ -1314,4 +1316,5 @@ export default {
   }
 };
 </script>
+
 
